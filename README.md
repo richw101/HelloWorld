@@ -1,3 +1,3 @@
 # HelloWorld
 boo
-updasted readme
+updated readme
